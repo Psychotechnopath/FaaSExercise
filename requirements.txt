@@ -1,0 +1,5 @@
+flask
+sqlalchemy==1.3.18
+sqlalchemy-utils
+psycopg2
+psycopg2-binary
